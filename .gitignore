@@ -1,0 +1,15 @@
+# 校验生成物
+tools/checked_final.txt
+tools/checked.txt
+
+# 编译输出
+out/
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.DS_Store
+*.swp
+*~
